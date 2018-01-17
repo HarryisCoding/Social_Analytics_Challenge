@@ -1,10 +1,8 @@
 
 #### Observed Trend1:
 CBS News's tweets are the most positive ones among all the 5 medias'. For the passed 100 tweets, CBS's overall sentiment score is 0.37.
-
 #### Observed Trend2:
 For Fox's tweets, they are more positive during Christmas sesaon than other times.
-    
 #### Observed Trend3:
 BBC's, CNN's and NYT's tweets are more neutral than CBS and Fox,because their overall sentiment score are closed to 0.
 
